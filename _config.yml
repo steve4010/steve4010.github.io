@@ -1,2 +1,4 @@
 name: Steve4010, Jack of all trades
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
