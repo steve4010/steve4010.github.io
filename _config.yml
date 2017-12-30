@@ -1,4 +1,12 @@
-name: Steve4010, Jack of all trades
-markdown: kramdown
+# basic options
+title: Steve's Blog
+author: Steve
+email: your-email@domain.com
+description: Steve's Blog
+twitter_username: jekyllrb
+github_username:  steve4010
 
+# Build settings
+markdown: kramdown
+theme: minima
 permalink: /blog/:year/:month/:day/:title
