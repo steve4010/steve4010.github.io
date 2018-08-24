@@ -8,7 +8,7 @@ github_username:  steve4010
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+# theme: jekyll-theme-merlot
 
 
 permalink: /blog/:year/:month/:day/:title
