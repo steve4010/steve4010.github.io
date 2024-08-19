@@ -30,8 +30,15 @@ categories:
 - category1
 - category2
 ```
+**Update**
 
+I got the code below to work.  After some reading, I found I had spaces inside the brackets that was causing it not to work.
+both versions worked but, I like the example below, it looks neater.
 
+```sh
+tags: [tag1, tag2, tag3]
+category: [cat1, cat2]
+```
 
 
 
